@@ -1,0 +1,4 @@
+shadowbox
+=========
+
+REDAXO Addon shadowbox

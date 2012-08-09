@@ -1,0 +1,41 @@
+# Addon: Shadowbox de_de
+#
+
+menu_link = Shadowbox
+title = Addon: Shadowbox
+
+text_help_title = <br /><strong>Addon Shadowbox Version {0}</strong><br /><br />
+text_help_1  = Dieses Addon stellt das Script <strong>Shadowbox v2.0</strong> zur Verf&uuml;gung.<br /><br />
+text_help_2  = Shadowbox ist wirkungsvolles Javascript zur schnellen Anzeige von Bildern.<br />Auf modernen Browsern wird die Webseite mit den Bildern &uuml;berlagert.<br /><br />
+text_help_3  = Verwendet wird das Script von Michael J. I. Jackson. <a href="http://mjijackson.com/shadowbox/" target="_blank">http://mjijackson.com/shadowbox/</a><br /><br />
+text_help_4  = <hr /><br /><strong>Anwendung</strong><br /><br />
+text_help_5  = 1. Shadowbox f&uuml;r die gew&uuml;nschten Kategorien ausw&auml;hlen<br /><br />
+text_help_6  = 2. zum aktivieren der Shadowbox einfach z.B. bei einem Thumbnail <strong>rel="shadowbox"</strong> im Link angeben<br /><br />
+text_help_7  = 3. wenn mehrere Thumbnails mit der Shadowbox angezeigt werden sollen, dann <strong>rel="shadowbox[galeriename]"</strong> in den Links angeben<br />
+text_help_8  = <br /><br />Mehr Informationen auf der <a href="http://rex.andreaseberhard.de" target="_blank">Webdesign Spielwiese</a> ;-)<br /><br />
+text_help_9  = &nbsp;
+text_help_10 = &nbsp;
+
+text_settings_intro = Hier k&ouml;nnen Sie ausw&auml;hlen bei welchen Kategorien das Shadowbox-Script in die Webseite eingebunden werden soll.<br />Das Script kann entweder bei allen Kategorien oder nur bei ausgew&auml;hlten Kategorien eingebunden werden.
+text_settings_help = Kategorien-Auswahl<br /><br /><em>Zur Mehrfachauswahl von Kategorien die [Strg]-Taste gedr&uuml;ckt halten!</em>
+text_settings_allcats = bei allen Kategorien
+text_settings_subcats = inklusive Unterkategorien
+text_rootarticles = --- Root-Arikel ---
+text_settings_excludeids = Bei folgenden Id's nicht einbinden
+text_settings_excludeids2 = <em>(Liste durch Komma getrennt)</em>
+
+msg_saved = <font color="#006600">Einstellungen gespeichert!<br /></font>
+
+error_createdir = Verzeichnis konnte nicht erstellt werden: {0} <br /><br />
+error_writedir = Kein Schreibzugriff auf Verzeichnis {0} m&ouml;glich<br /><br />
+error_readdir = Fehler beim Zugriff auf das Verzeichnis {0} <br /><br />
+error_copyfile = Datei {0} konnte nicht nach {1} kopiert werden <br />
+error_save = <font color="#cc0000"><strong>Datei {0} konnte nicht gespeichert werden! <br /></strong></font>
+error_read = <font color="#cc0000"><strong>Datei {0} konnte nicht gelesen werden! <br /></strong></font>
+
+menu_settings = Einstellungen
+menu_information = Informationen
+menu_changelog = Changelog
+menu_modules = Beispielmodul
+
+button_save = Einstellungen speichern

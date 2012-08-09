@@ -1,0 +1,41 @@
+# Addon: Shadowbox en_gb_utf8
+#
+
+menu_link = Shadowbox
+title = Addon: Shadowbox
+
+text_help_title = <br /><strong>Addon Shadowbox Version {0}</strong><br /><br />
+text_help_1  = This Addon makes the Script <strong>Shadowbox v2.0</strong> available.<br /><br />
+text_help_2  = Shadowbox is an effective Javascript to the fast announcement of pictures.<br />On modern Browsers the web page is overlaid with the pictures.<br /><br />
+text_help_3  = The Script of Michael J. I. Jackson is used. <a href="http://mjijackson.com/shadowbox/" target="_blank">http://mjijackson.com/shadowbox/</a><br /><br />
+text_help_4  = <hr /><br /><strong>How to use</strong><br /><br />
+text_help_5  = 1. select Shadowbox for the desired categories<br /><br />
+text_help_6  = 2. to activate the Shadowbox simply e.g. with a Thumbnail add <strong>rel="shadowbox"</strong> to the link<br /><br />
+text_help_7  = 3. if several Thumbnails are to be indicated with the Shadowbox, then add <strong>rel="shadowbox[galeryname]"</strong> to the links<br />
+text_help_8  = <br /><br />More Information on the <a href="http://rex.andreaseberhard.de" target="_blank">Webdesign Playground</a> ;-)<br /><br />
+text_help_9  = &nbsp;
+text_help_10 = &nbsp;
+
+text_settings_intro = Here you can select with which categories the Shadowbox-Script will be merged into the web page.<br />The Script can be merged either with all categories or only with selected categories.
+text_settings_help = Category Selection<br /><br /><em>Keep the [Strg] key pressed to select multiple categories!</em>
+text_settings_allcats = with all categories
+text_settings_subcats = inclusive subcategories
+text_rootarticles = --- Root-Articles ---
+text_settings_excludeids = Not embed for the following id's
+text_settings_excludeids2 = <em>(list separated by commas)</em>
+
+msg_saved = <font color="#006600">Settings successfully saved!<br /></font>
+
+error_createdir = Directory could not be created: {0} <br /><br />
+error_writedir = Error writing to directory {0}<br /><br />
+error_readdir = Error reading directory {0} <br /><br />
+error_copyfile = Can't copy file {0} to {1}<br />
+error_save = <font color="#cc0000"><strong>Could not save file {0}! <br /></strong></font>
+error_read = <font color="#cc0000"><strong>File {0} not found! <br /></strong></font>
+
+menu_settings = Settings
+menu_information = Information
+menu_changelog = Changelog
+menu_modules = Sample Module
+
+button_save = Save Settings

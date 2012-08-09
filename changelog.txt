@@ -1,0 +1,15 @@
+Addon: Shadowbox Version 1.1
+
+10.12.2009 Version 1.1 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Anpassung an REDAXO 4.2.x und 4.3.x
+           - neuer Konfigurationsparameter ausgewählte ID's ausschliessen
+           - Schreibrechte auf files/shadowbox/ bzw. files/addons/shadow/ bei Installation prüfen/setzen
+           - Schreibrechte auf ini-Datei setzen		  
+           - Outputfilter angepasst $rxa_shadowbox['htdocsfilesdir']
+           - Changelog bei utf8 korrekt anzeigen
+           - $ARTICLE -> $REX['ARTICLE'], $REX_USER -> $REX['USER']
+
+02.07.2000 Version 1.0 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Erste Version für REDAXO ab 3.1
+           - Shadowbox Version 2.0
+  
